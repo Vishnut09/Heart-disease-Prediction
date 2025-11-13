@@ -15,7 +15,7 @@ Compare performance of multiple algorithms and select the best performing model.
 
 Provide data visualization and interpretability for better understanding of health indicators.
 
- 2) Dataset :
+2) Dataset :
 
 Source: UCI Machine Learning Repository – Heart Disease Dataset
 
@@ -60,7 +60,7 @@ Scaled numerical features using StandardScaler
 Split data into training and testing sets (80:20)
 
 
-3) Visualizations
+4) Visualizations
 
 Correlation heatmap
 
@@ -71,7 +71,7 @@ Count plots for categorical attributes
 Feature importance ranking
 
 
-4) Machine Learning Models Used
+5) Machine Learning Models Used
 
 Logistic Regression
 
@@ -79,10 +79,10 @@ Decision Tree Classifier
 
 Random Forest Classifier
 
-✅ Best Model: Random Forest Classifier
-📈 Accuracy: ~85% (can vary depending on tuning)
+Best Model: Random Forest Classifier
+Accuracy: ~85% (can vary depending on tuning)
 
-5) Evaluation Metrics
+6) Evaluation Metrics
 
 Accuracy Score
 
@@ -93,7 +93,7 @@ Confusion Matrix
 ROC Curve & AUC Score
 
 
-6) Technologies Used
+7) Technologies Used
 
 Language: Python 
 
